@@ -1,0 +1,13 @@
+.block {
+ position: absolute;
+ top: 50px;
+ left: 450px;
+ width: 400px;
+ padding: 150px;
+ background: #aa7373;
+}
+
+.sum{
+  text-align: center;
+  color: #1b4a5a;
+}
